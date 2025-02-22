@@ -6,12 +6,15 @@
 /*   By: msokolov <msokolov@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/16 17:42:44 by msokolov          #+#    #+#             */
-/*   Updated: 2024/10/28 19:33:12 by msokolov         ###   ########.fr       */
+/*   Updated: 2025/02/21 18:11:25 by msokolov         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
+
+# define MAX_PID 4194304
+# define MIN_PID 1
 
 # include <stddef.h>
 # include <string.h>
